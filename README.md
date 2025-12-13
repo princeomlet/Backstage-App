@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo](https://raw.githubusercontent.com/princeomlet/Backstage-App/main/Backstage%20logo.png)
+<img src="https://raw.githubusercontent.com/princeomlet/Backstage-App/main/Backstage%20logo.png" width="200" alt="Logo">
 
 # BACKSTAGE v2
 
@@ -20,8 +20,8 @@
 
 | Формат | Ссылка | Описание |
 |--------|--------|----------|
-| 🗂️ EXE | [Скачать](https://github.com/username/project/releases/download/v2.0.4/backstage.exe) | Прямой запуск без распаковки |
-| 📦 ZIP | [Скачать](https://github.com/username/project/releases/download/v2.0.4/backstage.zip) | Портативная версия в архиве |
+| 🗂️ EXE | [Скачать](https://github.com/princeomlet/Backstage-App/releases/download/v2.0.4/Backstage.exe) | Прямой запуск без распаковки |
+| 📦 ZIP | [Скачать](https://github.com/princeomlet/Backstage-App/releases/download/v2.0.4/Backstage.zip) | Портативная версия в архиве |
 
 **Системные требования:** Windows 10/11, OBS Studio 28+, подключение к интернету
 
@@ -50,9 +50,9 @@ Backstage — это приложение для удаленного управ
 
 ## 📊 Статистика проекта
 
-![GitHub stars](https://img.shields.io/github/stars/princeomlet/repo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/princeomlet/repo?style=social)
-![GitHub downloads](https://img.shields.io/github/downloads/princeomlet/repo/total)
+![GitHub stars](https://img.shields.io/github/stars/princeomlet/Backstage-App?style=social)
+![GitHub forks](https://img.shields.io/github/forks/princeomlet/Backstage-App?style=social)
+![GitHub downloads](https://img.shields.io/github/downloads/princeomlet/Backstage-App/total)
 
 ---
 
