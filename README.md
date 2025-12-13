@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo](https://placeholder-logo-url.com/logo.png)
+![Logo](https://raw.githubusercontent.com/princeomlet/Backstage-App/main/Backstage%20logo.png)
 
 # BACKSTAGE v2
 
